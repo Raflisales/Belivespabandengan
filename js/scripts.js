@@ -6,7 +6,7 @@
 //
 // Scripts
 // 
-
+{/* <script src="https://kit.fontawesome.com/9739ea75e7.js" crossorigin="anonymous"></script> */}
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
